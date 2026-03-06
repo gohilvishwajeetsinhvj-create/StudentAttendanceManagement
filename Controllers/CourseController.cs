@@ -11,7 +11,7 @@ namespace StudentAttendanceManagement.Controllers
    
     public class CourseController : ControllerBase
     {
-        // demo commet check githunb
+       
         private readonly StudentAttendanceManagementContext _context;
 
         public CourseController(StudentAttendanceManagementContext context)
